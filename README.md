@@ -1,4 +1,4 @@
-# My-Porftolio
+# My-Portfolio
 
 This portfolio uses bootstrap to display my work.
 ![screenshot](./assets/images/myportfolio.png)
